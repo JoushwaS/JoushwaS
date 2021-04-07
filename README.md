@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoushwaS
 - 👋 I'm a Full Stack Web Developer
-- 👋 I'm Extremely passionate about programming
+- 👋 Extremely passionate about programming and building stuff
 - 💞️ I’m looking to collaborate on high end web apps
 - 📫 Wanna reach me ?
 Email: joushwashahzad1@gmail.com
