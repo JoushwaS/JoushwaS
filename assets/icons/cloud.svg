@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140" role="img">
+  <title>Cloud and DevOps</title>
+  <rect width="900" height="140" fill="#0F172A"/>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="16" y="28" fill="#3B82F6" font-size="13" font-weight="700" letter-spacing="1">CLOUD &amp; DEVOPS  AWS</text>
+    <g font-size="13" fill="#E2E8F0">
+      <rect x="16" y="44" width="60" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="46" y="64" text-anchor="middle">EC2</text>
+      <rect x="86" y="44" width="50" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="111" y="64" text-anchor="middle">S3</text>
+      <rect x="146" y="44" width="60" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="176" y="64" text-anchor="middle">IAM</text>
+      <rect x="216" y="44" width="100" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="266" y="64" text-anchor="middle">CloudFront</text>
+      <rect x="326" y="44" width="110" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="381" y="64" text-anchor="middle">API Gateway</text>
+      <rect x="446" y="44" width="110" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="501" y="64" text-anchor="middle">CloudWatch</text>
+      <rect x="566" y="44" width="80" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="606" y="64" text-anchor="middle">Docker</text>
+      <rect x="656" y="44" width="120" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="716" y="64" text-anchor="middle">GitHub Actions</text>
+      <rect x="786" y="44" width="70" height="30" rx="8" fill="#1E293B" stroke="#334155"/><text x="821" y="64" text-anchor="middle">Nginx</text>
+    </g>
+    <text x="16" y="108" fill="#94A3B8" font-size="13">Deploy · Secure · Observe · Automate  production-ready cloud delivery</text>
+  </g>
+</svg>

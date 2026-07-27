@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img">
+  <title>AI Architecture</title>
+  <rect width="1000" height="220" rx="12" fill="#0F172A" stroke="#1E293B"/>
+  <text x="24" y="36" fill="#F8FAFC" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700">AI Architecture</text>
+  <text x="24" y="58" fill="#64748B" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">User ’ Backend ’ Prompt Builder ’ OpenAI ’ JSON Parser ’ Database</text>
+  <defs>
+    <marker id="arrow3" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#10B981"/>
+    </marker>
+  </defs>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#E2E8F0">
+    <rect x="16" y="100" width="100" height="56" rx="10" fill="#1E293B" stroke="#10B981"/>
+    <text x="66" y="134" text-anchor="middle">User</text>
+    <line x1="116" y1="128" x2="144" y2="128" stroke="#10B981" stroke-width="2" marker-end="url(#arrow3)"/>
+    <rect x="148" y="100" width="110" height="56" rx="10" fill="#1E293B" stroke="#334155"/>
+    <text x="203" y="134" text-anchor="middle">Backend</text>
+    <line x1="258" y1="128" x2="286" y2="128" stroke="#10B981" stroke-width="2" marker-end="url(#arrow3)"/>
+    <rect x="290" y="100" width="140" height="56" rx="10" fill="#1E293B" stroke="#334155"/>
+    <text x="360" y="134" text-anchor="middle">Prompt Builder</text>
+    <line x1="430" y1="128" x2="458" y2="128" stroke="#10B981" stroke-width="2" marker-end="url(#arrow3)"/>
+    <rect x="462" y="100" width="110" height="56" rx="10" fill="#1E293B" stroke="#3B82F6"/>
+    <text x="517" y="134" text-anchor="middle">OpenAI</text>
+    <line x1="572" y1="128" x2="600" y2="128" stroke="#10B981" stroke-width="2" marker-end="url(#arrow3)"/>
+    <rect x="604" y="100" width="130" height="56" rx="10" fill="#1E293B" stroke="#334155"/>
+    <text x="669" y="134" text-anchor="middle">JSON Parser</text>
+    <line x1="734" y1="128" x2="762" y2="128" stroke="#10B981" stroke-width="2" marker-end="url(#arrow3)"/>
+    <rect x="766" y="100" width="120" height="56" rx="10" fill="#1E293B" stroke="#334155"/>
+    <text x="826" y="134" text-anchor="middle">Database</text>
+  </g>
+  <text x="24" y="196" fill="#94A3B8" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12">Structured outputs, validation, and durable persistence for LLM workflows.</text>
+</svg>

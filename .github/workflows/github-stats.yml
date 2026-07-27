@@ -1,0 +1,21 @@
+name: Profile Metrics Ping
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Verify public stats endpoints
+        run: |
+          set -e
+          curl -fsI "https://github-readme-stats.vercel.app/api?username=JoushwaS" >/dev/null
+          curl -fsI "https://streak-stats.demolab.com?user=JoushwaS" >/dev/null
+          echo "Stats endpoints reachable"
