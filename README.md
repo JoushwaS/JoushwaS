@@ -5,9 +5,9 @@
 
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Joushwa Shahzad — Senior Software Engineer" width="100%" />
+  <img src="./assets/png" alt="Joushwa Shahzad — Senior Software Engineer" width="100%" />
 
-  <br/><br/>
+<br/><br/>
 
   <img src="./assets/typing.svg" alt="Rotating professional titles" width="100%" />
 
@@ -42,12 +42,12 @@ I solve hard product and infrastructure problems:
   <img src="./assets/icons/focus.svg" alt="Current focus areas" width="100%" />
 </div>
 
-| Focus | Why it matters |
-| --- | --- |
-| **AI Agents & MCP** | Tool-using agents, structured outputs, grounded workflows |
-| **NestJS Systems** | Modular APIs, queues, auth, and long-lived domain services |
-| **AWS & DevOps** | Secure, observable deploys with automation |
-| **Distributed / Event-Driven** | BullMQ, Redis, workers — scale without chaos |
+| Focus                          | Why it matters                                             |
+| ------------------------------ | ---------------------------------------------------------- |
+| **AI Agents & MCP**            | Tool-using agents, structured outputs, grounded workflows  |
+| **NestJS Systems**             | Modular APIs, queues, auth, and long-lived domain services |
+| **AWS & DevOps**               | Secure, observable deploys with automation                 |
+| **Distributed / Event-Driven** | BullMQ, Redis, workers — scale without chaos               |
 
 ---
 
@@ -65,11 +65,11 @@ I solve hard product and infrastructure problems:
   <img src="./assets/icons/ai.svg" alt="AI expertise" width="100%" />
 </div>
 
-- AI workflow automation & LLM integrations  
-- Prompt engineering, structured outputs, function calling  
-- Agents, RAG, vector search  
-- Chatbots & AI voice (Retell AI)  
-- MCP servers for tool-connected engineering workflows  
+- AI workflow automation & LLM integrations
+- Prompt engineering, structured outputs, function calling
+- Agents, RAG, vector search
+- Chatbots & AI voice (Retell AI)
+- MCP servers for tool-connected engineering workflows
 
 ---
 
@@ -99,13 +99,13 @@ I solve hard product and infrastructure problems:
   <img src="./assets/projects/everest-railcar.svg" alt="Everest Railcar" width="480" />
 </div>
 
-| | |
-| --- | --- |
-| **Problem** | Manual railcar workflows, weak auditability, fragmented status |
-| **Solution** | Role-based operations platform with real-time status and audit trails |
-| **Architecture** | NestJS API, React clients, PostgreSQL, queue-backed jobs |
-| **Stack** | NestJS · React · PostgreSQL · Redis · AWS |
-| **Impact** | Faster ops cycles, clearer ownership, production-grade access control |
+|                  |                                                                       |
+| ---------------- | --------------------------------------------------------------------- |
+| **Problem**      | Manual railcar workflows, weak auditability, fragmented status        |
+| **Solution**     | Role-based operations platform with real-time status and audit trails |
+| **Architecture** | NestJS API, React clients, PostgreSQL, queue-backed jobs              |
+| **Stack**        | NestJS · React · PostgreSQL · Redis · AWS                             |
+| **Impact**       | Faster ops cycles, clearer ownership, production-grade access control |
 
 </details>
 
@@ -117,13 +117,13 @@ I solve hard product and infrastructure problems:
   <img src="./assets/projects/shackwise.svg" alt="ShackWise" width="480" />
 </div>
 
-| | |
-| --- | --- |
-| **Problem** | Multi-site ops lacked a single source of truth and alerting |
-| **Solution** | Unified dashboards, async workers, and notification pipelines |
-| **Architecture** | Next.js frontend, Node API, Redis queues, cached analytics |
-| **Stack** | Next.js · Node.js · Redis · PostgreSQL · Docker |
-| **Impact** | Centralized visibility and reliable background processing |
+|                  |                                                               |
+| ---------------- | ------------------------------------------------------------- |
+| **Problem**      | Multi-site ops lacked a single source of truth and alerting   |
+| **Solution**     | Unified dashboards, async workers, and notification pipelines |
+| **Architecture** | Next.js frontend, Node API, Redis queues, cached analytics    |
+| **Stack**        | Next.js · Node.js · Redis · PostgreSQL · Docker               |
+| **Impact**       | Centralized visibility and reliable background processing     |
 
 </details>
 
@@ -135,13 +135,13 @@ I solve hard product and infrastructure problems:
   <img src="./assets/projects/azara-healthcare.svg" alt="Azara Healthcare" width="480" />
 </div>
 
-| | |
-| --- | --- |
-| **Problem** | Sensitive workflows needed strict access control and auditability |
-| **Solution** | Secure care workflows with RBAC, APIs, and cloud delivery |
-| **Architecture** | React + NestJS, AWS edge/API, durable relational storage |
-| **Stack** | React · NestJS · PostgreSQL · AWS · Docker |
-| **Impact** | Safer delivery of clinical/ops workflows with clear permissions |
+|                  |                                                                   |
+| ---------------- | ----------------------------------------------------------------- |
+| **Problem**      | Sensitive workflows needed strict access control and auditability |
+| **Solution**     | Secure care workflows with RBAC, APIs, and cloud delivery         |
+| **Architecture** | React + NestJS, AWS edge/API, durable relational storage          |
+| **Stack**        | React · NestJS · PostgreSQL · AWS · Docker                        |
+| **Impact**       | Safer delivery of clinical/ops workflows with clear permissions   |
 
 </details>
 
@@ -153,13 +153,13 @@ I solve hard product and infrastructure problems:
   <img src="./assets/projects/five-peaks.svg" alt="5 Peaks Youth Solutions" width="480" />
 </div>
 
-| | |
-| --- | --- |
-| **Problem** | Program tracking and staff coordination were fragmented |
-| **Solution** | Central platform for programs, reporting, and coordination |
-| **Architecture** | React SPA, Express API, document/store persistence |
-| **Stack** | React · Express · MongoDB · CI/CD |
-| **Impact** | Clearer reporting and operational coordination at scale |
+|                  |                                                            |
+| ---------------- | ---------------------------------------------------------- |
+| **Problem**      | Program tracking and staff coordination were fragmented    |
+| **Solution**     | Central platform for programs, reporting, and coordination |
+| **Architecture** | React SPA, Express API, document/store persistence         |
+| **Stack**        | React · Express · MongoDB · CI/CD                          |
+| **Impact**       | Clearer reporting and operational coordination at scale    |
 
 </details>
 
@@ -172,12 +172,15 @@ More detail: [docs/projects.md](./docs/projects.md)
 <div align="center">
 
 ### Event Driven
+
 <img src="./assets/architecture/event-driven.svg" alt="Event driven architecture" width="100%" />
 
 ### Cloud
+
 <img src="./assets/architecture/cloud.svg" alt="Cloud architecture" width="100%" />
 
 ### AI Workflow
+
 <img src="./assets/architecture/ai-workflow.svg" alt="AI architecture" width="100%" />
 
 </div>
@@ -221,22 +224,22 @@ Deep dive: [docs/architecture.md](./docs/architecture.md) · [docs/ai.md](./docs
 
 ## Latest Articles
 
-Featured technical writing *(placeholders — replace with real posts)*:
+Featured technical writing _(placeholders — replace with real posts)_:
 
-| Title | Topic |
-| --- | --- |
-| Designing Event-Driven NestJS Systems | Queues · BullMQ · Redis |
+| Title                                     | Topic                   |
+| ----------------------------------------- | ----------------------- |
+| Designing Event-Driven NestJS Systems     | Queues · BullMQ · Redis |
 | Structured Outputs for Reliable AI Agents | LLM · JSON · Validation |
-| CloudFront + NestJS Production Patterns | AWS · Edge · APIs |
+| CloudFront + NestJS Production Patterns   | AWS · Edge · APIs       |
 
 ---
 
 ## Achievements
 
-- Production systems across **SaaS**, **healthcare**, and **industrial** domains  
-- End-to-end ownership: architecture → delivery → operations  
-- Focus on **scalability**, **security (RBAC/auth)**, and **AI-enabled workflows**  
-- Continuous open-source & profile automation via GitHub Actions  
+- Production systems across **SaaS**, **healthcare**, and **industrial** domains
+- End-to-end ownership: architecture → delivery → operations
+- Focus on **scalability**, **security (RBAC/auth)**, and **AI-enabled workflows**
+- Continuous open-source & profile automation via GitHub Actions
 
 ---
 
@@ -244,13 +247,13 @@ Featured technical writing *(placeholders — replace with real posts)*:
 
 <div align="center">
 
-| | |
-| --- | --- |
-| **Email** | [joushwashahzad1@gmail.com](mailto:joushwashahzad1@gmail.com) |
-| **GitHub** | [@JoushwaS](https://github.com/JoushwaS) |
-| **LinkedIn** | [linkedin.com/in/joushwa-shahzad](https://www.linkedin.com/in/joushwa-shahzad) *(update if needed)* |
-| **Portfolio** | Coming soon |
-| **Location** | Open to relocation |
+|               |                                                                                                     |
+| ------------- | --------------------------------------------------------------------------------------------------- |
+| **Email**     | [joushwashahzad1@gmail.com](mailto:joushwashahzad1@gmail.com)                                       |
+| **GitHub**    | [@JoushwaS](https://github.com/JoushwaS)                                                            |
+| **LinkedIn**  | [linkedin.com/in/joushwa-shahzad](https://www.linkedin.com/in/joushwa-shahzad) _(update if needed)_ |
+| **Portfolio** | Coming soon                                                                                         |
+| **Location**  | Open to relocation                                                                                  |
 
 </div>
 
