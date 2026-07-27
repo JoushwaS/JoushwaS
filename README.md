@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./assets/banner.png" alt="Joushwa Shahzad — Senior Software Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Joushwa Shahzad — Senior Software Engineer" width="100%" />
 
 <br/><br/>
 
