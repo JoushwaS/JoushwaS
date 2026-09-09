@@ -5,11 +5,11 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/banner.png?v=2" alt="Joushwa Shahzad — Senior Software Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/banner-hero.png?v=3" alt="Joushwa Shahzad — Senior Software Engineer" width="100%" />
 
 <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/typing.png?v=2" alt="Rotating professional titles" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/typing.png?v=3" alt="Rotating professional titles" width="100%" />
 
 </div>
 
@@ -39,7 +39,7 @@ I solve hard product and infrastructure problems:
 ## Current Focus
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/focus.png?v=2" alt="Current focus areas" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/focus.png?v=3" alt="Current focus areas" width="100%" />
 </div>
 
 | Focus                          | Why it matters                                             |
@@ -54,7 +54,7 @@ I solve hard product and infrastructure problems:
 ## Technology Stack
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/stack.png?v=2" alt="Technology stack" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/stack.png?v=3" alt="Technology stack" width="100%" />
 </div>
 
 ---
@@ -62,7 +62,7 @@ I solve hard product and infrastructure problems:
 ## AI Expertise
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/ai.png?v=2" alt="AI expertise" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/ai.png?v=3" alt="AI expertise" width="100%" />
 </div>
 
 - AI workflow automation & LLM integrations
@@ -76,7 +76,7 @@ I solve hard product and infrastructure problems:
 ## Cloud & DevOps
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/cloud.png?v=2" alt="Cloud and DevOps" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/cloud.png?v=3" alt="Cloud and DevOps" width="100%" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ I solve hard product and infrastructure problems:
 ## Architecture Expertise
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/architecture-expertise.png?v=2" alt="Architecture expertise" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/architecture-expertise.png?v=3" alt="Architecture expertise" width="100%" />
 </div>
 
 ---
@@ -96,7 +96,7 @@ I solve hard product and infrastructure problems:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/everest-railcar.png?v=2" alt="Everest Railcar" width="480" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/everest-railcar.png?v=3" alt="Everest Railcar" width="480" />
 </div>
 
 |                  |                                                                       |
@@ -114,7 +114,7 @@ I solve hard product and infrastructure problems:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/shackwise.png?v=2" alt="ShackWise" width="480" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/shackwise.png?v=3" alt="ShackWise" width="480" />
 </div>
 
 |                  |                                                               |
@@ -132,7 +132,7 @@ I solve hard product and infrastructure problems:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/azara-healthcare.png?v=2" alt="Azara Healthcare" width="480" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/azara-healthcare.png?v=3" alt="Azara Healthcare" width="480" />
 </div>
 
 |                  |                                                                   |
@@ -150,7 +150,7 @@ I solve hard product and infrastructure problems:
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/five-peaks.png?v=2" alt="5 Peaks Youth Solutions" width="480" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/five-peaks.png?v=3" alt="5 Peaks Youth Solutions" width="480" />
 </div>
 
 |                  |                                                            |
@@ -173,15 +173,15 @@ More detail: [docs/projects.md](./docs/projects.md)
 
 ### Event Driven
 
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/event-driven.png?v=2" alt="Event driven architecture" width="100%" />
+<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/event-driven.png?v=3" alt="Event driven architecture" width="100%" />
 
 ### Cloud
 
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/cloud.png?v=2" alt="Cloud architecture" width="100%" />
+<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/cloud.png?v=3" alt="Cloud architecture" width="100%" />
 
 ### AI Workflow
 
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/ai-workflow.png?v=2" alt="AI architecture" width="100%" />
+<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/ai-workflow.png?v=3" alt="AI architecture" width="100%" />
 
 </div>
 
@@ -215,9 +215,9 @@ Deep dive: [docs/architecture.md](./docs/architecture.md) · [docs/ai.md](./docs
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/animations/github-contribution-grid-snake.svg?v=2" alt="Contribution snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/animations/github-contribution-grid-snake.svg?v=3" alt="Contribution snake" width="100%" />
   <br/>
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/animations/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution snake dark" width="100%" />
+  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/animations/github-contribution-grid-snake-dark.svg?v=3" alt="Contribution snake dark" width="100%" />
 </div>
 
 ---
@@ -267,7 +267,7 @@ Featured technical writing _(placeholders — replace with real posts)_:
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/logo.svg?v=2" width="48" alt="JS logo" />
+<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/logo.svg?v=3" width="48" alt="JS logo" />
 
 <br/><br/>
 
