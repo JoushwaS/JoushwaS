@@ -1,276 +1,143 @@
-﻿<!--
-  GitHub Profile README — Joushwa Shahzad
-  Premium senior engineer portfolio surface
--->
+﻿<div align="center">
 
-<div align="center">
+# Joushwa Shahzad
 
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/banner-hero.png?v=3" alt="Joushwa Shahzad — Senior Software Engineer" width="100%" />
+### Senior Full-Stack Engineer · AI / LLM Integration
 
-<br/><br/>
+**NestJS · Next.js · TypeScript · PostgreSQL · AWS · OpenAI / Claude**
 
-  <img src="./assets/typing.png" alt="Rotating professional titles" width="100%" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-joushwa--shahzad.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://joushwa-shahzad.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joushwa-shahzad)
+[![Email](https://img.shields.io/badge/Email-joushwashahzad1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joushwashahzad1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JoushwaS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoushwaS)
+
+Karachi · **Open to relocation** · Remote-friendly · 5+ years shipping production systems
 
 </div>
 
 ---
 
-## Introduction
+## About
 
-I'm **Joushwa Shahzad** — a Senior Software Engineer focused on production systems, AI integrations, and cloud architecture.
+I design and ship **production platforms** across SaaS, healthcare, PropTech, and industrial ops — with a focus on **reliable backends**, **clean APIs**, and **practical AI integrations**.
 
-I design and ship scalable platforms across SaaS, healthcare, and industrial operations — with an engineering philosophy rooted in **clarity, reliability, and measurable impact**. Open to relocation for the right engineering leadership opportunity.
+I care about systems teams can operate: queues, auth/RBAC, observability, data integrity, and measurable delivery — not demos that die after the pitch.
 
----
-
-## About Me
-
-I solve hard product and infrastructure problems:
-
-- Build **API platforms**, **event-driven backends**, and **real-time** experiences that hold up in production
-- Enjoy systems where **queues, auth/RBAC, observability**, and **data integrity** matter as much as the UI
-- Bring **technical leadership** — architecture decisions, mentoring, and pragmatic delivery under constraints
-- Ship end-to-end: NestJS / Node backends, React / Next.js frontends, AWS, Docker, and CI/CD
-
-> Impact over novelty. Architecture that teams can operate.
+> Impact over novelty. Architecture that holds up in production.
 
 ---
 
-## Current Focus
+## What I bring
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/focus.png?v=3" alt="Current focus areas" width="100%" />
-</div>
-
-| Focus                          | Why it matters                                             |
-| ------------------------------ | ---------------------------------------------------------- |
-| **AI Agents & MCP**            | Tool-using agents, structured outputs, grounded workflows  |
-| **NestJS Systems**             | Modular APIs, queues, auth, and long-lived domain services |
-| **AWS & DevOps**               | Secure, observable deploys with automation                 |
-| **Distributed / Event-Driven** | BullMQ, Redis, workers — scale without chaos               |
+| Area | Focus |
+| --- | --- |
+| **Backend platforms** | NestJS / Node modular APIs, BullMQ workers, Redis, Socket.IO |
+| **AI / LLM** | OpenAI, Anthropic Claude, LangChain, structured outputs, agents, Retell AI |
+| **Frontend** | React, Next.js, TypeScript, production UI for ops & SaaS |
+| **Data** | PostgreSQL, Prisma, MongoDB, Redis caching |
+| **Cloud & DevOps** | AWS, Docker, CI/CD, secure deploys with observability |
+| **Leadership** | Architecture decisions, mentoring, teams of 10+ |
 
 ---
 
-## Technology Stack
+## Featured work
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/stack.png?v=3" alt="Technology stack" width="100%" />
-</div>
+| Project | Domain | What I shipped | Impact |
+| --- | --- | --- | --- |
+| **Everest Railcar** | Freight / industrial | NestJS + React ops platform with RBAC, audits, real-time status, queue-backed jobs | Faster ops cycles, clear ownership, production-grade access control |
+| **ShackWise** | PropTech / SaaS | Next.js + Node analytics platform with async workers and notification pipelines | Centralized multi-site visibility and reliable background processing |
+| **Azara** | Healthcare | Secure care workflows with NestJS APIs, RBAC, AWS delivery | Safer clinical/ops workflows with auditable permissions |
+| **5 Peaks** | EdTech / SaaS | React + Express program management with reporting and staff coordination | Clearer reporting and operational coordination at scale |
 
----
-
-## AI Expertise
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/ai.png?v=3" alt="AI expertise" width="100%" />
-</div>
-
-- AI workflow automation & LLM integrations
-- Prompt engineering, structured outputs, function calling
-- Agents, RAG, vector search
-- Chatbots & AI voice (Retell AI)
-- MCP servers for tool-connected engineering workflows
+**Stack across these:** NestJS · React · Next.js · PostgreSQL · Redis · BullMQ · AWS · Docker · MongoDB
 
 ---
 
-## Cloud & DevOps
+## Tech stack
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/cloud.png?v=3" alt="Cloud and DevOps" width="100%" />
-</div>
+### Languages & runtime
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
-## Architecture Expertise
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-Queues-EF4444?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/icons/architecture-expertise.png?v=3" alt="Architecture expertise" width="100%" />
-</div>
+### Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
----
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP_Agents-0EA5E9?style=flat-square)
 
-## Featured Projects
-
-<details>
-<summary><strong>Everest Railcar</strong> — Industrial operations platform</summary>
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/everest-railcar.png?v=3" alt="Everest Railcar" width="480" />
-</div>
-
-|                  |                                                                       |
-| ---------------- | --------------------------------------------------------------------- |
-| **Problem**      | Manual railcar workflows, weak auditability, fragmented status        |
-| **Solution**     | Role-based operations platform with real-time status and audit trails |
-| **Architecture** | NestJS API, React clients, PostgreSQL, queue-backed jobs              |
-| **Stack**        | NestJS · React · PostgreSQL · Redis · AWS                             |
-| **Impact**       | Faster ops cycles, clearer ownership, production-grade access control |
-
-</details>
-
-<details>
-<summary><strong>ShackWise</strong> — Smart operations & analytics SaaS</summary>
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/shackwise.png?v=3" alt="ShackWise" width="480" />
-</div>
-
-|                  |                                                               |
-| ---------------- | ------------------------------------------------------------- |
-| **Problem**      | Multi-site ops lacked a single source of truth and alerting   |
-| **Solution**     | Unified dashboards, async workers, and notification pipelines |
-| **Architecture** | Next.js frontend, Node API, Redis queues, cached analytics    |
-| **Stack**        | Next.js · Node.js · Redis · PostgreSQL · Docker               |
-| **Impact**       | Centralized visibility and reliable background processing     |
-
-</details>
-
-<details>
-<summary><strong>Azara Healthcare</strong> — Care workflows & data platform</summary>
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/azara-healthcare.png?v=3" alt="Azara Healthcare" width="480" />
-</div>
-
-|                  |                                                                   |
-| ---------------- | ----------------------------------------------------------------- |
-| **Problem**      | Sensitive workflows needed strict access control and auditability |
-| **Solution**     | Secure care workflows with RBAC, APIs, and cloud delivery         |
-| **Architecture** | React + NestJS, AWS edge/API, durable relational storage          |
-| **Stack**        | React · NestJS · PostgreSQL · AWS · Docker                        |
-| **Impact**       | Safer delivery of clinical/ops workflows with clear permissions   |
-
-</details>
-
-<details>
-<summary><strong>5 Peaks Youth Solutions</strong> — Program management platform</summary>
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/projects/five-peaks.png?v=3" alt="5 Peaks Youth Solutions" width="480" />
-</div>
-
-|                  |                                                            |
-| ---------------- | ---------------------------------------------------------- |
-| **Problem**      | Program tracking and staff coordination were fragmented    |
-| **Solution**     | Central platform for programs, reporting, and coordination |
-| **Architecture** | React SPA, Express API, document/store persistence         |
-| **Stack**        | React · Express · MongoDB · CI/CD                          |
-| **Impact**       | Clearer reporting and operational coordination at scale    |
-
-</details>
-
-More detail: [docs/projects.md](./docs/projects.md)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-## System Architecture
+## Currently focused on
 
-<div align="center">
-
-### Event Driven
-
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/event-driven.png?v=3" alt="Event driven architecture" width="100%" />
-
-### Cloud
-
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/cloud.png?v=3" alt="Cloud architecture" width="100%" />
-
-### AI Workflow
-
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/architecture/ai-workflow.png?v=3" alt="AI architecture" width="100%" />
-
-</div>
-
-Deep dive: [docs/architecture.md](./docs/architecture.md) · [docs/ai.md](./docs/ai.md)
+- **AI agents & MCP** — tool-using agents, structured outputs, grounded workflows
+- **NestJS systems** — modular APIs, queues, auth, long-lived domain services
+- **Event-driven backends** — BullMQ, Redis workers, reliable async processing
+- **AWS delivery** — secure, observable deploys for production SaaS
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JoushwaS&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=10B981&text_color=F8FAFC" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoushwaS&layout=compact&theme=radical&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoushwaS&theme=radical&hide_border=true&background=0F172A&ring=3B82F6&fire=10B981&currStreakLabel=3B82F6" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoushwaS&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub trophies" />
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoushwaS&theme=react-dark&bg_color=0F172A&color=3B82F6&line=10B981&point=F8FAFC&area=true&hide_border=true" alt="Activity graph" width="100%" />
-</div>
-
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/animations/github-contribution-grid-snake.svg?v=3" alt="Contribution snake" width="100%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/animations/github-contribution-grid-snake-dark.svg?v=3" alt="Contribution snake dark" width="100%" />
-</div>
-
----
-
-## Latest Articles
-
-Featured technical writing _(placeholders — replace with real posts)_:
-
-| Title                                     | Topic                   |
-| ----------------------------------------- | ----------------------- |
-| Designing Event-Driven NestJS Systems     | Queues · BullMQ · Redis |
-| Structured Outputs for Reliable AI Agents | LLM · JSON · Validation |
-| CloudFront + NestJS Production Patterns   | AWS · Edge · APIs       |
-
----
-
-## Achievements
-
-- Production systems across **SaaS**, **healthcare**, and **industrial** domains
-- End-to-end ownership: architecture → delivery → operations
-- Focus on **scalability**, **security (RBAC/auth)**, and **AI-enabled workflows**
-- Continuous open-source & profile automation via GitHub Actions
-
----
-
-## Contact
+## GitHub
 
 <div align="center">
 
-|               |                                                                                                     |
-| ------------- | --------------------------------------------------------------------------------------------------- |
-| **Email**     | [joushwashahzad1@gmail.com](mailto:joushwashahzad1@gmail.com)                                       |
-| **GitHub**    | [@JoushwaS](https://github.com/JoushwaS)                                                            |
-| **LinkedIn**  | [linkedin.com/in/joushwa-shahzad](https://www.linkedin.com/in/joushwa-shahzad) _(update if needed)_ |
-| **Portfolio** | [joushwa-shahzad.vercel.app](https://joushwa-shahzad.vercel.app/)                                                                                         |
-| **Location**  | Open to relocation                                                                                  |
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoushwaS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoushwaS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![Streak](https://streak-stats.demolab.com?user=JoushwaS&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF)
 
 </div>
 
 ---
 
+## Education
+
+**BSc Computer Science** — Iqra University
+
+English C1 · Urdu native
+
+---
+
+## Let's talk
+
+I'm looking for **senior full-stack / AI-integration** roles (remote or sponsored relocation) and high-trust freelance builds.
+
+| | |
+| --- | --- |
+| **Portfolio** | [joushwa-shahzad.vercel.app](https://joushwa-shahzad.vercel.app/) |
+| **Email** | [joushwashahzad1@gmail.com](mailto:joushwashahzad1@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/joushwa-shahzad](https://www.linkedin.com/in/joushwa-shahzad) |
+| **GitHub** | [@JoushwaS](https://github.com/JoushwaS) |
+
 <div align="center">
 
-### Footer
+---
 
-> Building software is easy. Building systems that scale is engineering.
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/logo.svg?v=3" width="48" alt="JS logo" />
-
-<br/><br/>
-
-⭐️ From [JoushwaS](https://github.com/JoushwaS)
+**Building software is easy. Building systems that scale is engineering.**
 
 </div>
