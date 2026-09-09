@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/JoushwaS/JoushwaS/main/assets/typing.png?v=3" alt="Rotating professional titles" width="100%" />
+  <img src="./assets/typing.png" alt="Rotating professional titles" width="100%" />
 
 </div>
 
